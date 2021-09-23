@@ -1,2 +1,2 @@
 # MitraShakha
-An mearn stack project as a clone version of INSTAGRAM
+An MERN stack project as a clone version of INSTAGRAM
